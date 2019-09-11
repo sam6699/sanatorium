@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_label">Выберите санаторий</string>
+    <string name="reserve_label">Бронь</string>
+    <string name="flm">Ф.И.О</string>
+    <string name="birth">Дата рождения</string>
+    <string name="inn">ИНН</string>
+    <string name="telefon">Телефон</string>
+    <string name="mail">Электронная почта</string>
+    <string name="direct">Направление</string>
+    <string name="letter">Письмо</string>
+    <string name="gallery">Галерея</string>
+</resources>

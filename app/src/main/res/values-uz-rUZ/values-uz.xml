@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="choose_label">Sanato\'\riyani tanlang</string>
+    <string name="reserve_label">Band qilish</string>
+    <string name="flm">"F.I.Sh"</string>
+    <string name="birth">Tug\'\ilgan sana</string>
+    <string name="inn">INN</string>
+    <string name="telefon">Telefon</string>
+    <string name="mail">Elektron manzil</string>
+    <string name="direct">Yollanma</string>
+    <string name="letter">Xat</string>
+    <string name="gallery">Galereya</string>
+</resources>
